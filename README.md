@@ -1,7 +1,7 @@
 # Modélisation Hybride de la Volatilité Financière (GARCH + ML)
 
-![GitHub language count](https://img.shields.io/github/languages/count/VOTRE_NOM_UTILISATEUR/VOTRE_REPO?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/VOTRE_NOM_UTILISATEUR/VOTRE_REPO?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/abderrahimhoubbadi/Hybrid-Volatility-Modeling?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/abderrahimhoubbadi/Hybrid-Volatility-Modeling?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
 
 Ce projet de recherche, mené dans le cadre du cours de Data Mining à l'École Mohammadia d'Ingénieurs, explore l'efficacité des modèles hybrides combinant la robustesse des modèles GARCH traditionnels avec la flexibilité des algorithmes de Machine Learning pour la prévision de la volatilité des actifs financiers.
@@ -85,7 +85,7 @@ Pour chaque actif, notre approche se déroule en quatre étapes :
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone https://github.com/VOTRE_NOM_UTILISATEUR/Hybrid-Volatility-Modeling.git
+    git clone https://github.com/abderrahimhoubbadi/Hybrid-Volatility-Modeling.git
     cd Hybrid-Volatility-Modeling
     ```
 
